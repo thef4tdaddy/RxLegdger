@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/thef4tdaddy/RxLedger/compare/v0.3.0...v0.4.0) (2025-07-12)
+
+
+### Features
+
+* add modular dashboard components and service layer architecture ([b8b77d2](https://github.com/thef4tdaddy/RxLedger/commit/b8b77d25312e421e467cba2b8b9ea05607e891b9))
+
 ## [0.3.0](https://github.com/thef4tdaddy/RxLedger/compare/v0.2.1...v0.3.0) (2025-07-11)
 
 
